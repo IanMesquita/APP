@@ -1,6 +1,6 @@
 ## PEÇAS DE LINGUAGEM
 - Comentarios
-- Declaração de variaveis ( const, let )
+- Declaração de variaveis ( const, let ) = const não muda / let pode ser alterada
 - Operadores (atribuiçao, concatenaçao, matematicos, logicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (function,objetc, array)
